@@ -1,6 +1,4 @@
-﻿# facebookblenderbot
-
- # Chatbot using Hugging Face Transformers
+# Chatbot using Facebook Blenderbot model
 
 This project is a simple chatbot application built with Flask and Hugging Face Transformers. It accepts user input, processes it, and returns a generated response based on a pre-trained model.
 
